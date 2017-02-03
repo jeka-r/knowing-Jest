@@ -1,0 +1,11 @@
+{
+  "name": "knowing-jest",
+  "version": "0.0.1",
+  "description": "my knowing with Jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeka-r",
+  "license": "ISC"
+}
